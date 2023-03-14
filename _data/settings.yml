@@ -6,7 +6,7 @@ title: Build Data Solutions
 logo:
 author: Yunha Lee, Ph.D.
 description: this is meta description
-email: yunha.lee.00@email.com
+email: build.data.solutions@gmail.com
 # phone: +1-703-xxx-xxxx
 address: Alexandria, VA, USA
 #copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
@@ -57,18 +57,19 @@ blurb-btn-name: know more
 # About Page
 
 # Work Process Section
+
 work-process:
-  - title: "Research and Plan"
+  - title: "Identifying Scientific Challenges"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Finding a need for scientific solutions in science and technology field"
 
-  - title: "Design and Develop"
+  - title: "Developing Effective Solutions"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Developing scientific and technical solutions (e.g, ML modeling) for Atmospheric Science"
 
-  - title: "Deliver"
+  - title: "Contributing Open Source Projects"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "Develping python package tools to support Earth Science community"
 
 # My Team Section
 # team:
@@ -87,8 +88,8 @@ skills-title: Skills
 skills:
   - { name: Computational modeling, color: "#fdb157", value: "100%" }
   - { name: Scientific workflow, color: "#9473e6", value: "100%" }
-  - { name: Science poligy, color: "#bdecf6", value: "80%" }
-  - { name: Data Science, color: "#ffbcaa", value: "70%" }
+  - { name: Science policy, color: "#bdecf6", value: "80%" }
+  - { name: Data Science, color: "#ffbcaa", value: "80%" }
 
 #-------------------------------
 # Exprerience Section
@@ -153,13 +154,13 @@ education:
 services-title: Services
 services:
   - {
-      name: Developing physics and machine learning models for Atmospheric Science,
+      name: Physics/ML modeling for atmospheric science,
       icon: ti-desktop,
       #description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
   - {
-      name: Building a scientific workflow framework,
+      name: Building a scientific workflow,
       icon: ti-harddrives,
       #description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
