@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Build Data Solutions
 logo:
-author: themefisher
+author: Yunha Lee, Ph.D.
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+email: yunha.lee.00@email.com
+# phone: +1-703-xxx-xxxx
+address: Alexandria, VA, USA
+#copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,19 +36,20 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi, I’m <br> Yunha! <br> Computational scientist
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+#  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/yunhal/" }
+#  - { icon: "ti-gitlab", link: "https://gitlab.com/yunhal/" }
+#  - { icon: "ti-dribbble", link: "#" }
+  - { icon: "ti-twitter", link: "https://twitter.com/AirYunha" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: I am a female computational scientist with more than 15 years of experience in the development of atmospheric models for climate and air quality applications. 
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -70,28 +71,24 @@ work-process:
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
 
 # My Team Section
-team:
-  - title: "Jack Schenziwe"
-    image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+# team:
+#   - title: "Yunha Lee, Ph.D."
+#     image: "assets/images/team/member-1.png"
+#     designation: "Founder"
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
-
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer"
+#  - title: "Julias Carlie"
+#    image: "assets/images/team/member-2.png"
+#    designation: "Web Developer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Computational modeling, color: "#fdb157", value: "100%" }
+  - { name: Scientific workflow, color: "#9473e6", value: "100%" }
+  - { name: Science poligy, color: "#bdecf6", value: "80%" }
+  - { name: Data Science, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +96,34 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Postdoc to Associate Research Scientist,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "July 2010 - Oct 2013",
+      organization: "NASA GISS and Columbia University",
     }
   - {
-      name: UX & UI Designer,
+      name: Research Scientist,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Nov 2013 - Dec 2014",
+      organization: "Duke University",
     }
   - {
-      name: Senior UI Designer,
+      name: Assistant Research Professor to Assistant Professor,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Jan 2015 - Mar 2022",
+      organization: "Washington State University",
+    }
+  - {
+      name: Visiting Faculty to Guest Scientist,
+      icon: "icon-4.png",
+      date: "Oct 2020 - Dec 2022",
+      organization: "CASUS, Helmholtz-Zentrum Dresden–Rossendorf (HZDR)",
+    }
+  - {
+      name: Founder,
+      icon: "icon-5.png",
+      date: "Jan 2023 - Present",
+      organization: "Build Data Solutions",
     }
 
 #-------------------------------
@@ -123,24 +132,19 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Ph.D. in Civil and Environmental Engineering,
+      date: "2010",
+      organization: "Carnegie Mellon University, Pittsburgh, USA",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: M.S. in Environmental Science and Engineering,
+      date: "2005",
+      organization: "Gwangju Institute of Science and Technology, South Korea",
     }
   - {
-      name: Higher Secondary Certificat,
+      name: B.E. in Geosystems and Environmental Engineering,
       date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      organization: "Inha University, South Korea",
     }
 
 #-------------------------------
@@ -149,22 +153,22 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      name: Developing physics and machine learning models for Atmospheric Science,
+      icon: ti-desktop,
+      #description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      name: Building a scientific workflow framework,
+      icon: ti-harddrives,
+      #description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: true, # Add true to select section
+    }
+  - {
+      name: Geo-spatiotemporal data analysis,
+      icon: ti-map-alt,
+      #description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: true, # Add true to select section
     }
 
 #-------------------------------
@@ -173,128 +177,139 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
-    url: "#"
+    url: "https://gmd.copernicus.org/articles/8/631/2015/"
 
   - image: "assets/images/portfolio/item-2.png"
-    url: "#"
+    url: "https://acp.copernicus.org/articles/16/5323/2016/"
 
   - image: "assets/images/portfolio/item-3.png"
-    url: "#"
+    url: "https://doi.org/10.3389/fdata.2023.1124148"
 
   - image: "assets/images/portfolio/item-4.png"
-    url: "#"
+    url: "https://eartharxiv.org/repository/view/2285/"
 
   - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-
-# Portfolio Page
-portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
-
-portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+    url: "https://www.mdpi.com/2073-4433/13/2/262"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
 
   - image: "assets/images/portfolio/item-7.png"
+    url: "https://doi.org/10.7273/000003968"
+
+  - image: "assets/images/portfolio/item-8.png"
+    url: "https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/353525"
+
+  - image: "assets/images/portfolio/item-9.png"
+    url: "https://acp.copernicus.org/articles/13/2607/2013/acp-13-2607-2013.pdf"
+
+# Portfolio Page
+portfolio-label:
+  - { title: "Modeling", type: "modeling" }
+  - { title: "Decision support", type: "policy" }
+  - { title: "Data analysis", type: "data" }
+
+portfolio-items:
+  - image: "assets/images/portfolio/item-1.png" # modele
+    url: "https://gmd.copernicus.org/articles/8/631/2015/"
+    portfolio-type:
+      - type: "modeling"
+
+  - image: "assets/images/portfolio/item-2.png" # policy work
+    url: "https://acp.copernicus.org/articles/16/5323/2016/"
+    portfolio-type:
+      - type: "modeling"
+      - type: "policy"
+
+  - image: "assets/images/portfolio/item-3.png" # ML
+    url: "https://doi.org/10.3389/fdata.2023.1124148"
+    portfolio-type:
+      - type: "modeling"
+      - type: "data"
+
+  - image: "assets/images/portfolio/item-4.png" # decadal
+    url: "https://eartharxiv.org/repository/view/2285/"
+    portfolio-type:
+      - type: "data"
+
+  - image: "assets/images/portfolio/item-5.png" # WRF-CHEM
+    url: "https://www.mdpi.com/2073-4433/13/2/262"
+    portfolio-type:
+      - type: "modeling"
+
+  - image: "assets/images/portfolio/item-6.png" # airpact
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "modeling"
 
+  - image: "assets/images/portfolio/item-7.png" # Urbanova
+    url: "https://doi.org/10.7273/000003968"
+    portfolio-type:
+      - type: "modeling"
+      - type: "policy"
+
+  - image: "assets/images/portfolio/item-8.png"  # hysplit
+    url: "https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/353525"
+    portfolio-type:
+      - type: "modeling"
+
+  - image: "assets/images/portfolio/item-9.png"  # accmip
+    url: "https://acp.copernicus.org/articles/13/2607/2013/acp-13-2607-2013.pdf"
+    portfolio-type:
+      - type: "modeling"
+      - type: "policy"
 #-------------------------------
 # Testimonials Section
 
-testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+# testimonial-items:
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#   - name: "Jesica Gomez"
+#     image: "assets/images/testimonial/client-1.png"
+#     designation: "CEO, Funder"
+#     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
 
-client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+# client-slider-items:
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-1.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-2.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-3.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-4.png"
+#     url: "#"
 
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
+#   - logo: "assets/images/clients-logo/client-logo-5.png"
+#     url: "#"
 
 #-------------------------------
 # Contact Section

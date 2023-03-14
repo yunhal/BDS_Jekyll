@@ -1,18 +1,11 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
+author: Yunha Lee, Ph.D.
+image: assets/images/about/yunha.jpg
+#signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+ I am a female computational scientist with extensive experiences on the development of atmospheric models for climate and air quality applications. 
+ 
+ I was an assistant professor at Washington State University and a visiting faculty at Center for Advanced Systems Understanding, HZDR in Germany, leading a group that works on various air quality modeling tools and machine learning application. Prior to that, I worked at NASA GISS and Duke University where my work focused on developing a global climate-chemistry model and science-driven decision support for climate/energy policies. Besides theses, I am also interested in contributing to open science and data science projects and providing career and life advices to grad students and early career scientist.
